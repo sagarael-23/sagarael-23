@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Informatics Engineering (Computer Science) student** at
+I'm an **Informatics Engineering student** at
 **Universitas Suryakancana** with a strong curiosity about technology
 and how it can be used to solve real-world problems.
 
